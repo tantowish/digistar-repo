@@ -1,0 +1,17 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "merge-sort-pkg-tantowi": "^1.0.0"
+  }
+}

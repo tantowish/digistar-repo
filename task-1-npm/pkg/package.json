@@ -1,0 +1,11 @@
+{
+  "name": "merge-sort-pkg-tantowi",
+  "version": "1.0.0",
+  "main": "merge-sort.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
